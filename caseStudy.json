@@ -1,0 +1,60 @@
+{
+  "caseStudies": [
+    {
+      "title": "Mr Smith",
+      "quote": "Nothing seemed to be a problem. They carried out the installation efficiently, professionally and explained everything to me before, during and after completion. Very happy!",
+      "summary": "A domestic installation with a small element of ground works, and the requirement for the added feature of load management...",
+      "description": "<dl class='row'> <dt class='col-sm-3'><p><strong>Location</strong></p></dt><dd class='col-sm-9'><p>Humberside</p></dd><dt class='col-sm-3'><p><strong>Charge Point Manufacturer</strong></p></dt><dd class='col-sm-9'><p>OHME</p>/dd><dt class='col-sm-3'><p><strong>Charge Point Model</strong></p></dt><dd class='col-sm-9'><p>OHME HOME PRO 7KW</p></dd></dl><div><p>A domestic installation with a small element of ground works, and the requirement for the added feature of load management due to existing constraints on the existing power supply.The installation required the removal of some block paving before installation and the subsequent re-instatement after completion, all carried out by our engineer. The OHME EV charge point was chosen for its option to select energy tariff rates throughout the day via Octopus Energy and charge accordingly. </p></div>",
+      "imageUrl": "images/banners/mr-smith.jpg"
+    },
+    {
+      "title": "EMS",
+      "quote": "At out request, Neil came to site and took care of everything from survey,  design and installation. His team did a fantastic job",
+      "summary": "This installation was that of 6no 22kw three phase charge points sharing a limited supply capacity...",
+      "description": "<dl class='row'><dt class='col-sm-3'><p><strong>Location</strong></p></dt><dd class='col-sm-9'><p>Wirral </p></dd><dt class='col-sm-3'><p><strong>Charge Point Manufacturer</strong></p></dt><dd class='col-sm-9'<p>EASEE</p></dd><dt class='col-sm-3'><p><strong>Charge Point Model</strong></p></dt><dd class='col-sm-9'><p>OEASEE Black 22KW</p></dd></dl><div><p>This installation was that of 6no 22kw three phase charge points sharing a limited supply capacity. These Charge points will share a given supply capacity across linked units via Bluetooth and alter the charge power accordingly. The installation was surface mounted internally through a very bespoke office environment. We also supplied client branded backboard signage as requested.</p></div>",
+      "imageUrl": "images/banners/ems.jpg"
+    },
+    {
+      "title": "Technical Civils Solutions",
+      "quote": "HLD dealt with everything from start to finish as it was all a bit daunting to us wondering what was required.  We would certainly recommend them",
+      "summary": "This installation was that of 2no 22kw three phase twin charge bollards. The Client wanted a robust free standing option...",
+      "description": "<dl class='row'><dt class='col-sm-3'><p><strong>Location</strong></p></dt><dd class='col-sm-9'><p>Lancashire </p></dd><dt class='col-sm-3'><p><strong>Charge Point Manufacturer</strong></p></dt><dd class='col-sm-9'<p>GARO</p></dd><dt class='col-sm-3'><p><strong>Charge Point Model</strong></p></dt><dd class='col-sm-9'><p>LS4 Twin 22kw Bollard</p></dd></dl><div><p>This installation was that of 2no 22kw three phase twin charge bollards. The Client wanted a robust free standing option allowing full APP control along with usage data capture so as to recover costs of electricity, this was facilitated via our back office management system. The installation was sub-surface and included all civil engineering works and data wiring and connection. We also supplied client branded backboard signage as requested along with the EV marked parking bays.</p></div>",
+      "imageUrl": "images/banners/technical-civils-solutions.jpg"
+    },
+    {
+      "title": "Versa Ltd",
+      "quote": "We weren’t quite sure how we could achieve what we wanted within our tight budget, but the team at HLD gave us a turnkey solution that worked for everyone- very pleased ",
+      "summary": "This installation was that of 1no single phase twin 7KW charge bollard connected to a three phase supply internally...",
+      "description": "<dl class='row'><dt class='col-sm-3'><p><strong>Location</strong></p></dt><dd class='col-sm-9'><p>Lancashire</p></dd><dt class='col-sm-3'><p><strong>Charge Point Manufacturer</strong></p></dt><dd class='col-sm-9'><p>ROLEC</p></dd><dt class='col-sm-3'><p><strong>Charge Point Model</strong></p></dt><dd class='col-sm-9'><p>Basic Charge Bollard</p></dd></dl><div><p>This installation was that of 1no single phase twin 7KW charge bollard connected to a three phase supply internally. The Client asked for an economical, but reliable free standing option allowing RFID card control to monitor staff and visitor usage. The installation was a mixture of sub-soil and surface clipped methods. This small project also included a small degree of civil engineering work.</p></div>",
+      "imageUrl": "images/banners/versa.jpg"
+    },
+    {
+      "title": "Mrs Dean",
+      "quote": "Neil from HLD EV advised on what would best suit our requirements and the guys delivered exactly that- well done!",
+      "summary": "The installation of a standard ROLEC home smart 7kw charge point, albeit with some ground works and external ducting requirements...",
+      "description": "<dl class='row'><dt class='col-sm-3'><p><strong>Location</strong></p></dt><dd class='col-sm-9'></dd><dt class='col-sm-3'><p><strong>Charge Point Manufacturer</strong></p></dt><dd class='col-sm-9'<p>ROLEC</p></dd><dt class='col-sm-3'><p><strong>Charge Point Model</strong></p></dt><dd class='col-sm-9'><p>Home smart Tethered</p></dd></dl><div><p>The installation of a standard ROLEC home smart 7kw charge point, albeit with some ground works and external ducting requirements. This client wanted the charge point installing within the boundary of the garden parking area and not on the building façade. We dealt with all aspects of the installation including the concrete base and bespoke post mount.</p></div>",
+      "imageUrl": "images/banners/mrs-dean.jpg"
+    },
+    {
+      "title": "Buy a Bike UK",
+      "quote": "HLD gave great advice on the type of EV charge point we was looking for. Although the electrical installation looked scary to me, the engineers from HLD installed it without fuss and left us with a very neat and professional job. I would definitely recommend them.",
+      "summary": "A straightforward installation via a three phase MATT:E device connected to an existing three phase  busbar...",
+      "description": "<dl class='row'><dt class='col-sm-3'><p><strong>Location</strong></p></dt><dd class='col-sm-9'><p>Lancashire </p></dd><dt class='col-sm-3'><p><strong>Charge Point Manufacturer</strong></p></dt><dd class='col-sm-9'><p>EASEE</p></dd><dt class='col-sm-3'><p><strong>Charge Point Model</strong></p></dt><dd class='col-sm-9'><p>EASEE Black 22kw</p></dd></dl><div><p>A straightforward installation via a three phase MATT:E device connected to an existing three phase  busbar chamber located within the electrical switch room. The client requested an EV charge point that was easy to use, sleek looking and had the capability for future expansion and was APP controllable for all members of staff and visitors.</p></div>",
+      "imageUrl": "images/banners/buy-a-bike-uk.jpg"
+    },
+    {
+      "title": "Mrs Cox",
+      "quote": "HLD new exactly what we wanted and looked after all aspects of the job from start to finish- very happy",
+      "summary": "Our client required a bespoke installation that would blend in with the unique surroundings in which they would be sited...",
+      "description": "<dl class='row'><dt class='col-sm-3'><p><strong>Location</strong></p></dt><dd class='col-sm-9'><p>Lancashire </p>/dd><dt class='col-sm-3'><p><strong>Charge Point Manufacturer</strong></p></dt><dd class='col-sm-9'><p>Wallbox</p></dd><dt class='col-sm-3'><p><strong>Charge Point Model</strong></p></dt><dd class='col-sm-9'><p>Pulsar Plus 7.4 kw Tethered</p></dd></dl><div><p>Our client required a bespoke installation that would blend in with the unique surroundings in which they would be sited. The installation was for 2no 7.4kw charge points that could charge simultaneously. We had to install load management at the origin to protect the supply to the property. All cabling to the charge points was sub-soil and ducted accordingly. The solid oak bollards were sourced locally and adapted to suit our requirements.</p></div>",
+      "imageUrl": "images/banners/mrs-cox.jpg"
+    },
+    {
+      "title": "RS Clare",
+      "quote": "Neil advised on what would be the best solution based on our specific supply restrictions. Andy and the team then installed and managed the whole installation process, thank you",
+      "summary": "This installation was that of 2no 22kw three phase charge points sharing a limited supply capacity...",
+      "description": "<dl class='row'><dt class='col-sm-3'><p><strong>Location</strong></p></dt><dd class='col-sm-9'><p>Liverpool</p></dd><dt class='col-sm-3'><p><strong>Charge Point Manufacturer</strong></p></dt><dd class='col-sm-9'><p>EASEE</p></dd><dt class='col-sm-3'><p><strong>Charge Point Model</strong></p></dt><dd class='col-sm-9'><p>EASEE Black 22KW</p></dd></dl><div><p>This installation was that of 2no 22kw three phase charge points sharing a limited supply capacity. The installation was carried out utilising SWA cabling and surface mounted galvanised tray work. We also supplied and fitted the bespoke client logo back boards and signage, along with the painted EV parking bays.</p></div>",
+      "imageUrl": "images/banners/rs-clare.jpg"
+    }
+  ]
+}
